@@ -24,7 +24,7 @@ FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 44100
 
-openai.api_key = "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"
+openai.api_key = "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"
 API_KEY = "077ee4131c2b4d3dbd6f5fafaefd3fc0"
 UPLOAD_ENDPOINT = 'https://api.assemblyai.com/v2/upload'
 AUDIO_FILE = 'audio.mp3'
